@@ -1,0 +1,17 @@
+{
+  "name": "marko-run-starter",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "marko-run",
+    "build": "marko-run build",
+    "preview": "marko-run preview"
+  },
+  "devDependencies": {
+    "@marko/run": "^0.2.0"
+  },
+  "dependencies": {
+    "marko": "^5.26.0"
+  }
+}
